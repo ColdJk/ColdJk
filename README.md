@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ColdJk/ColdJk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **ColdJk/ColdJk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=ColdJk.readme)
-![](http://antzuhl.cn:4000/get/@ColdJk.readme)
+🎉 Welcome to my GitHub profile!
+
+👨🏻‍💻 I'm remember - a PHP/Go developer
+
+
+
 ![info](https://github-readme-stats.vercel.app/api?username=ColdJk&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
