@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-![info](https://github-readme-stats.vercel.app/api?username=ColdJk&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+![info](https://github-readme-stats.vercel.app/api?username=ColdJk&show_icons=true&count_private=true&hide=prs&theme=dracula)
