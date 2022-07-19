@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 👨🏻‍💻 I'm remember - a PHP/Go developer
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
