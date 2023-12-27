@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 🎉 Welcome to my GitHub profile!
 
-👨🏻‍💻 I'm remember - a PHP/Go developer
+👨🏻‍💻 I'm remember - a Go/PHP developer
 
 
