@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I'm Otstar Lin. A indie software developer and a college student.
+I'm Senkorl. A software developer.
 
 🌱 I’m currently learning:
 
