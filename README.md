@@ -24,5 +24,5 @@ I'm Otstar Lin. A indie software developer and a college student.
 
 📫 How to reach me: 
 
-&ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://senkorl.gitee.io-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://senkorl.gitee.io) [![Telegram](https://img.shields.io/badge/-https://t.me/senkorl-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/senkorl) [![Twitter](https://img.shields.io/badge/-https://twitter.com/senkorl-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/senkorl) [![Email](https://img.shields.io/badge/-i@senkorl77@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:senkorl77@gmail.com)
+&ensp;&ensp;&ensp;[![Blog](https://img.shields.io/badge/-https://senkorl.gitee.io-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://senkorl.gitee.io) [![Telegram](https://img.shields.io/badge/-https://t.me/senkorl-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/senkorl) [![Twitter](https://img.shields.io/badge/-https://twitter.com/senkorl-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/senkorl) [![Email](https://img.shields.io/badge/-senkorl77@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:senkorl77@gmail.com)
 
